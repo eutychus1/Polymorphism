@@ -1,7 +1,8 @@
 
 # -----------------------------
 # Base classes are not required here,
-# but we create an Animal and Vehicle parent for clarity.
+# but we create an Animal and Vehicle parent for
+ clarity.
 # -----------------------------
 
 class Animal:
