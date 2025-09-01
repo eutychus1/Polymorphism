@@ -47,5 +47,18 @@ but each produces a **different behavior** when called.
   --Python automatically uses the right version of move() depending on the object.
 
   --This is polymorphism in action 🎉
+=== Superhero Program ===
+I am StarBlade, protector of Neo City!
+StarBlade channels their light manipulation with a crystal sword!
+I am DarkStorm, protector of Neo City!
+DarkStorm unleashes shadow control to execute eternal darkness!
+
+=== Polymorphism Challenge ===
+The dog runs 🐕.
+The bird flies 🐦.
+The fish swims 🐟.
+The car drives 🚗.
+The plane flies ✈️.
+The boat sails 🚤.
 
 
